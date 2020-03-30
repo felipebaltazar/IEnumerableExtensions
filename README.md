@@ -1,0 +1,2 @@
+# IEnumerableExtensions
+ Extensões para IEnumerable
